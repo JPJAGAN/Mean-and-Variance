@@ -1,5 +1,5 @@
 #  Mean and variance of a discrete  distribution
-
+# DATE: 10/10/24
 
 # Aim : 
 
@@ -48,11 +48,19 @@ It shows the distance of a random variable from its mean. It is calcualted as
 ![image](https://user-images.githubusercontent.com/103921593/229993174-5b67e57e-3e01-4ac4-9f83-410a932b22bf.png)
 
 # Program :
+Developed by: J.P.JAGAN
+![probability 1](https://github.com/user-attachments/assets/e55a87b4-2af2-4459-a27b-8ed14d8d4646)
 
 
 
 # Output : 
+1 2 3 4 5 6 8 0 9 0 9
 
+The Mean arrival rate is 4.273
+
+The Variance of arrival from feeder is 10.562
+
+The Standard deviation of arrival from feeder is 3.250
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
